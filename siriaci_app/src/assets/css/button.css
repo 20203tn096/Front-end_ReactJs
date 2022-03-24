@@ -1,0 +1,79 @@
+.btn-outline-white {
+    color: #ffffff;
+    border-color: #ffffff;
+    background-color: transparent;
+}
+
+.btn-outline-white:hover {
+    color: #000;
+    background-color: #ffffff;
+    border-color: #ffffff
+}
+
+.btn-outline-white.focus,
+.btn-outline-white:focus {
+    box-shadow: 0 0 0 .2rem rgba(255, 255, 255, 0.5);
+    color: #000;
+    background-color: #fff
+}
+
+.btn-outline-white.disabled,
+.btn-outline-white:disabled {
+    color: #ffffff;
+    background-color: transparent
+}
+
+.btn-outline-white:not(:disabled):not(.disabled).active,
+.btn-outline-white:not(:disabled):not(.disabled):active,
+.show>.btn-outline-white.dropdown-toggle {
+    color: #000;
+    background-color: #ffffff;
+    border-color: #ffffff
+}
+
+.btn-outline-white:not(:disabled):not(.disabled).active:focus,
+.btn-outline-white:not(:disabled):not(.disabled):active:focus,
+.show>.btn-outline-white.dropdown-toggle:focus {
+    box-shadow: 0 0 0 .2rem rgba(255, 255, 255, 0.5);
+    background-color: transparent
+}
+
+.icon-outline-white {
+    color: #ffffff;
+    border-color: #ffffff;
+    background-color: transparent;
+}
+
+.icon-outline-white:hover {
+    color: #000;
+    background-color: transparent;
+    border-color: #ffffff
+}
+
+.icon-outline-white.focus,
+.icon-outline-white:focus {
+    box-shadow: 0 0 0 .2rem rgba(255, 255, 255, 0.5);
+    color: #000;
+    background-color: transparent
+}
+
+.icon-outline-white.disabled,
+.icon-outline-white:disabled {
+    color: #ffffff;
+    background-color: transparent
+}
+
+.icon-outline-white:not(:disabled):not(.disabled).active,
+.icon-outline-white:not(:disabled):not(.disabled):active,
+.show>.icon-outline-white.dropdown-toggle {
+    color: #000;
+    background-color: transparent;
+    border-color: #ffffff
+}
+
+.icon-outline-white:not(:disabled):not(.disabled).active:focus,
+.icon-outline-white:not(:disabled):not(.disabled):active:focus,
+.show>.icon-outline-white.dropdown-toggle:focus {
+    box-shadow: 0 0 0 .2rem rgba(255, 255, 255, 0.5);
+    background-color: transparent
+}
